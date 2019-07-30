@@ -1,4 +1,4 @@
-# AI-Gomoku
+# Gomoku AI Grandmaster
 
 This lightweight gomoku AI program is made based on a unique heuristic algorithm that would certainly provide the players with a new level of game-play experience. The AI is certainly not unbeatable, but it is equally good at attacking and making silly mistakes -- and this is what makes it more human like. It is capable of making outstanding moves based on an optimized minimax search algorithm that delves deep into the game tree while it is also capable of making simplistic mistakes due to imperfections built into its linear evaluation mechanism. This is precisely what makes this AI a playable opponent that is equally engaging and intriguing to battle against.
 
@@ -12,7 +12,7 @@ Features:
 
 # Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+If you have any questions or suggestions about our app, do not hesitate to contact us.
 
 Email: mazw87@163.com
 
